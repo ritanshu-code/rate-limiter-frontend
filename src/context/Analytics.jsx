@@ -1,5 +1,6 @@
 import { createContext, useContext, useEffect, useState } from "react";
 import { socket } from "../utils/socket";
+import { BASE_URL } from "../utils/config";
 
 const AnalyticsContext = createContext();
 
