@@ -1,0 +1,1 @@
+export const BASE_URL = "https://rate-limiter-backend-1.onrender.com";
